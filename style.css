@@ -15,3 +15,29 @@ h1{
     text-align: center;
     background-color: #1d42aa;
 }
+
+/* here are the style rules for a with class navbar */
+a:active#navbar{
+
+
+}
+
+a:link#navbar{
+
+
+}
+
+a:hover#navbar{
+
+
+}
+
+a:visited#navbar{
+
+
+}
+
+/*this is where the tea picture get's styled*/
+div#tea{
+    text-align: center;
+}
